@@ -8,7 +8,7 @@
 
 body {
   font-size: 14px;
-  background: darkblue url('./bg.jpg') no-repeat fixed;
+  background: black url('./home.jpeg') no-repeat fixed;
   background-size: cover;
 }
 
@@ -17,7 +17,7 @@ body {
   margin: 20px auto;
   padding: 2em;
   border: 1px solid #ccc;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,255,255,0.4);
 }
 
 /* 헤더 부분 */
@@ -60,7 +60,7 @@ section {
 #pf-img img {
   border: 1px solid #ccc;
   border-radius: 50%;
-  box-shadow: 5px 5px #eee;
+  box-shadow: 5px 5px #000;
 }
 
 /* 왼쪽, 자기 소개 부분 */
